@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_nb0"]=self["webpackChunkvue3_nb0"]||[]).push([[437],{98437:(e,n,t)=>{t.r(n),t.d(n,{default:()=>l});var o=t(69878),i=t(77129),u=t(8151),c={class:"home_view"},r={class:"projectTitle"};const s={__name:"HomeView",setup:function(e){var n,t=null===(n=(0,o.FN)())||void 0===n?void 0:n.appContext.config.globalProperties,s=t.$project.projectName,a=function(){};return a(),function(e,n){return(0,o.wg)(),(0,o.iD)("div",c,[(0,o._)("div",r,"欢迎使用 "+(0,i.zw)((0,u.SU)(s)),1)])}}},a=s,l=a}}]);
+//# sourceMappingURL=437.0a7c16b0.js.map
